@@ -6,11 +6,11 @@ This is a Node.js application that fetches user data from the JSONPlaceholder AP
 
 ## 🎯 Features
 
-✅ Fetches user data from JSONPlaceholder API  
-✅ Filters users whose company catchPhrase contains "group" or "service" (case-insensitive)  
-✅ Uses Object Destructuring for clean code  
-✅ Formats output in a readable string format  
-✅ Uses ES6+ modern JavaScript features  
+ Fetches user data from JSONPlaceholder API  
+Filters users whose company catchPhrase contains "group" or "service" (case-insensitive)  
+ Uses Object Destructuring for clean code  
+Formats output in a readable string format  
+ Uses ES6+ modern JavaScript features  
 
 ## 🛠️ Technologies Used
 
@@ -48,19 +48,19 @@ This is a Node.js application that fetches user data from the JSONPlaceholder AP
 node app.js
 ```
 
-## 📌 Example Output
+##  Example Output
 
 ```bash
-📥 Fetching users...
-🔍 Filtering users...
-✨ Formatting data...
+ Fetching users...
+ Filtering users...
+ Formatting data...
 
-✅ Results:
+ Results:
 
 User: Patricia Lebsack | Email: Julianne.OConner@kory.org | City: South Elvis
 ```
 
-## 🧠 Notes
+##  Notes
 
 This project is a simple example of working with APIs and modern JavaScript in Node.js. It helps demonstrate how to:
 - make HTTP requests
